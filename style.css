@@ -5,6 +5,10 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+body {
+  background-color:#000000;
+  color: seashell;
+}
 
 .container {
   display: flex;
@@ -34,12 +38,12 @@ hr {
   font-size: 0, 9em;
   border-radius: 5px 5px 0 0;
   overflow: hidden;
-  box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+  box-shadow: 0 0 20px rgb(2, 131, 244);
 }
 
 .content-sks thead tr {
   background-color: #1f75fe;
-  color: #ffffff;
+  color: #fbfbfb;
   text-align: left;
   font-weight: bold;
 }
@@ -50,7 +54,7 @@ hr {
 }
 
 .content-sks tbody tr {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #f2f3f4;
 }
 
 .content-sks tbody tr:nth-of-type(even) {
@@ -58,5 +62,5 @@ hr {
 }
 
 .content-sks tbody tr:last-of-type {
-  border-bottom: 2px solid #0000cd;
+  border-bottom: 2px solid #1f75fe;
 }
