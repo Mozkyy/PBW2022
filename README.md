@@ -1,3 +1,4 @@
 # PBW2022
 Minggu 2 ==> https://github.com/Mozkyy/PBW2022/blob/main/Minggu2/biodata.html
-Minggu 2 ==> file:///C:/Users/LENOVO/OneDrive/Documents/dasar%20pemograman%20web/Minggu%202/Biodata%20mahasiswa/Biodata%20Za'im.html
+Minggu 3 ==> https://github.com/Mozkyy/PBW2022/blob/main/Minggu%203/Minggu%203%20video.html
+Minggu 4 ==> https://github.com/Mozkyy/PBW2022/blob/main/Minggu%204/Form%201.html
