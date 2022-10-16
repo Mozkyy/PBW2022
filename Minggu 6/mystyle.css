@@ -1,0 +1,56 @@
+body {
+    background-color: peachpuff;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }  
+  
+  img {
+    width: 200px;
+  }
+  
+  a {
+    direction: none;
+  }
+  
+  section {
+    text-align: center;
+  }
+  
+  footer {
+    text-align: left;
+  }
+  
+  table,
+  thead,
+  th {
+    border: 1px solid;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+   table {
+    width: 600px;
+  }
+  table,
+  th,
+  td {
+    
+    border-collapse: collapse;
+    border: 2px solid black;
+  } 
