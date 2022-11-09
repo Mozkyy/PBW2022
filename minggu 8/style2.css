@@ -1,0 +1,18 @@
+p { 
+    font-family: serif; 
+    line-height: 1.50em; 
+} 
+ 
+i { 
+    font-family: sans; 
+    color: rgb(255, 0, 0); 
+} 
+ 
+h2{
+    text-align: center;
+}
+
+h2 { 
+    font-family: sans; 
+    color: rgb(255, 0, 0); 
+}
